@@ -2,7 +2,7 @@ package Unit_01;
 /*
  # control Statement and Conditional Statement :
   - Java provides three type of control flow Statement.
-  -Decision Makjng Statements
+  -Decision Making Statements	
      -if statement
      -switch statement 
      
