@@ -4,10 +4,10 @@ package Unit_01;
 - It is called when an instance of the class created
 - At the time of calling the constructor, memory for the object is allocated in the memory
 - It is special type of method which is used to initialize the object
-- Every time an object is created using the new() keyword, at least one constuctor is called
-- Two types of constuctor in java
-   - Parameterized Contructor
-   -Default Contructor
+- Every time an object is created using the new() keyword, at least one constructor is called
+- Two types of constructor in java
+   - Parameterized Constructor
+   -Default Constructor
  */
 
 public class P5_Task03_ConstructorsInJava {
@@ -29,9 +29,9 @@ class ABC4 {
 	int a;
 	
 	/* 
-	 ClassName(Contructor Parameters)
+	 ClassName(Constructor Parameters)
 	 {
-	   All the class and instance variable can be intialized here!!!
+	   All the class and instance variable can be initialized here!!!
 	   }
 	 */
 	
