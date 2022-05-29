@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class P15_Task01_CountWordInFile {
 
-	public static void main(String[] args) throws IOException {
+	public static  void main(String[] args) throws IOException {
 		Anm obj = new Anm();
 		obj.count();
 	}
